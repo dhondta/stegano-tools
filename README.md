@@ -1,10 +1,16 @@
 # Steganography tools
 
-## Setup
+A collection of Tinyscript tools for steganography.
+
+## Prerequisite
 
 ```sh
 $ pip install tinyscript
 ```
+
+## Base32/64 steganography
+
+- [Base32/64 padding](https://gist.github.com/dhondta/90a07d9d106775b0cd29bb51ffe15954)
 
 ## Image steganography
 
