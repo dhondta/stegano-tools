@@ -1,6 +1,6 @@
-# Steganography tools
+## Introduction
 
-A collection of Tinyscript tools for steganography.
+This repository is a collection of [Tinyscript](https://github.com/dhondta/python-tinyscript/) tools for steganography.
 
 ## Prerequisite
 
