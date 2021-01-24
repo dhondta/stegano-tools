@@ -5,6 +5,7 @@ title: Home
 #title-img: /assets/img/logo.png
 description: Open source projects
 url: "https://projects.praxisec.be"
+baseurl: ""
 
 # Navigation bar
 navbar-links:
@@ -133,3 +134,4 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-remote-theme
