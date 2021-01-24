@@ -4,7 +4,7 @@ layout: page
 ---
 # Steganography tools
 
-A collection of [Tinyscript](https://github.com/dhondta/python-tinyscript) tools for steganography.
+A collection of [Tinyscript](https://github.com/dhondta/python-tinyscript/) tools for steganography.
 
 ## Prerequisite
 
