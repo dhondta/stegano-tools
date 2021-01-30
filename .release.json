@@ -1,6 +1,0 @@
-{
-  "dist": {
-    "repo": "git@github.com:dhondta/stegano-tools.git#gh-pages",
-    "beforeStageCommand": "cat front.yml ../README.md > index.md"
-  }
-}
