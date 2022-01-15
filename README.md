@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/dhondta/stegano-tools/raw/main/logo.png"></p>
 <h1 align="center">Steganography Tools Collection <a href="https://twitter.com/intent/tweet?text=Stegano%20Tools%20-%20A%20collection%20of%20steganography%20tools%20for%20images%20(including%20LSB,%20PIT%20and%20PVD%20techniques)%20and%20text%20encoding.%0D%0Ahttps%3a%2f%2fgithub%2ecom%2fdhondta%2fstegano-tools%0D%0A&hashtags=python,ctftools,stegano,lsb,pit,pvd,encodings"><img src="https://img.shields.io/badge/Tweet--lightgrey?logo=twitter&style=social" alt="Tweet" height="20"/></a></h1>
-<h3 align="center">Use stegano easy.</h3>
+<h3 align="center">Some handy steganography tools.</h3>
 
 ```sh
 $ pip install tinyscript
